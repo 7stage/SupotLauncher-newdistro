@@ -12,7 +12,7 @@
       "name": "SupotOnline (Minecraft 1.16.5)",
       "description": "SupotOnline Running Minecraft 1.16.5 (Forge v36.2.35)",
       "icon": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/images/supot.webp",
-      "version": "1.0.0",
+      "version": "2.5.0",
       "address": "Supot.kro.kr:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.35",
