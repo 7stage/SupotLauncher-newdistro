@@ -11,9 +11,9 @@
       "id": "SupotOnline-1.16.5",
       "name": "SupotOnline (Minecraft 1.16.5)",
       "description": "SupotOnline Running Minecraft 1.16.5 (Forge v36.2.35)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/images/supot.webp",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "Supot.kro.kr:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
