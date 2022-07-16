@@ -381,19 +381,6 @@
           }
         },
         {
-          "id": "creo.mod.koreanchat:koreanchat:creo-1.12-1.9@jar",
-          "name": "Koreanchat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 30763,
-            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.16.5/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
-            "MD5": "91492de16021a4f7018eb5d523f45fc2"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "kr.neko.sokcuri:naraechat:1.16.3-0.7.1@jar",
           "name": "Narae Chat",
           "type": "ForgeMod",
