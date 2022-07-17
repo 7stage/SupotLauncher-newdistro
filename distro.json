@@ -371,13 +371,13 @@
           }
         },
         {
-          "id": "generated.forgemod:iceandfire:2.1.10-1.16.5@jar",
+          "id": "com.github.alexthe666:iceandfire:2.1.10-1.16.5@jar",
           "name": "Ice and Fire",
           "type": "ForgeMod",
           "artifact": {
-            "size": 21418225,
+            "size": 21346951,
             "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.16.5/forgemods/required/iceandfire-2.1.10-1.16.5.jar",
-            "MD5": "0414c17045073451d0460e20f43e90e0"
+            "MD5": "9cdf0072e1935afb87109a7180ac334f"
           }
         },
         {
