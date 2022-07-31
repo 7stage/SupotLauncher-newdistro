@@ -4,3 +4,23 @@
 <description>This forum will be used to share large network-wide announcements.</description>
 <pubDate>Mon, 07 Mar 2022 17:12:48 +0000</pubDate>
 <lastBuildDate>Mon, 07 Mar 2022 17:12:48 +0000</lastBuildDate>
+<generator>ModRealms Forum</generator>
+<link>https://modrealms.net/forum/index.php</link>
+<atom:link rel="self" type="application/rss+xml" href="https://modrealms.net/forum/index.php?forums/network-announcements.2/index.rss"/>
+<item>
+<title>Network Announcement</title>
+<pubDate>Mon, 7 May 2022 18:26:00 +0000</pubDate>
+<link>#</link>
+<guid>#</guid>
+<author>invalid@example.com (Ally)</author>
+<category domain="https://modrealms.net/forum/index.php?forums/network-announcements.2/">
+<![CDATA[ Network Announcements ]]>
+</category>
+<dc:creator>GalaxyTeam</dc:creator>
+<content:encoded>
+<![CDATA[ <div class="bbWrapper"><span style="color: rgb(255, 255, 255)">Welcome to the GalaxyLauncher!<br /> <br /> The launcher that supports shaders and mods, go directly to the GalaxyServers.<br /> <br /> The launcher that supports shaders and mods, go directly to the GalaxyServers.<br /> <br /> On the topic of staff, our applications are currently </span><span style="color: rgb(97, 189, 109)"><b><b>OPEN</b></b></span><span style="color: rgb(255, 255, 255)"> and will remain as such for the foreseeable future. If you are interested in joining our wonderful team, please don't hesitate to create an application in our Discord server using the command /application. We look forward to seeing new faces join our team! The roles that we have currently are:<br /> <br /> <span style="color: rgb(235, 107, 86)"><b>Helper:</b> Help players around the minecraft server and answering tickets on our discord server.</span><br /> <span style="color: rgb(251, 160, 38)"><b>Mod:</b> Moderate the discord / minecraft server.</span><br /> <b><span style="color: rgb(247, 218, 100)">Admin:</span></b><span style="color: rgb(247, 218, 100)"> Admin of the discord / minecraft server. Has a long experience of working with plugins, mods and security.</span><br /> <br /> The launcher currently only support 1.16.5 and not higher.<br /> <br /> </div> ]]>
+</content:encoded>
+<slash:comments>0</slash:comments>
+</item>
+</channel>
+</rss>
