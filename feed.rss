@@ -7,6 +7,23 @@
 <generator>ModRealms Forum</generator>
 <link>https://modrealms.net/forum/index.php</link>
 <atom:link rel="self" type="application/rss+xml" href="https://modrealms.net/forum/index.php?forums/network-announcements.2/index.rss"/>
+
+<item>
+<title>8번째 버전: Beta 4</title>
+<pubDate>Mon, 25 Jul 2022 18:38:00 +09:00</pubDate>
+<link>#</link>
+<guid>#</guid>
+<author>7stage#0886</author>
+<category domain="https://modrealms.net/forum/index.php?forums/network-announcements.2/">
+<![CDATA[ 베타 0.3.0 ]]>
+</category>
+<dc:creator>서폿 온라인</dc:creator>
+<content:encoded>
+<![CDATA[ <div class="bbWrapper"><span style="color: rgb(255, 255, 255)">개발 중!<br /> <br /> </div>
+</content:encoded>
+<slash:comments>0</slash:comments>
+</item>
+
 <item>
 <title>7번째 버전: Beta 3</title>
 <pubDate>Mon, 25 Jul 2022 18:38:00 +09:00</pubDate>
