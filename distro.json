@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/feed.rss",
   "discord": {
-    "clientId": "1003917346785742948",
-    "smallImageText": "서폿 런쳐",
-    "smallImageKey": "icon"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "Supot.kro.kr:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "SupotOnline",
-        "largeImageText": "Supot.kro.kr",
-        "largeImageKey": "icon"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
       "autoconnect": true,
