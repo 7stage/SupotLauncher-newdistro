@@ -256,6 +256,16 @@
           ]
         },
         {
+          "id": "net.spellcraftgaming.rpghud.main:rpghud:3.8.1@jar",
+          "name": "RPG-Hud",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200491,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/[1.12][Forge]+RPG-HUD-3.8.1.jar",
+            "MD5": "325a6b7779ad2851f6c909eebfb5329e"
+          }
+        },
+        {
           "id": "noppes.npcs:customnpcs:1.12@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
@@ -263,6 +273,16 @@
             "size": 9911871,
             "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "net.infstudio.goki:gokistats:1.2.10@jar",
+          "name": "Goki Stats",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 481547,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/GokiStats-1.2.10.jar",
+            "MD5": "67e0ceb3043e02d0473a1f74e8a3a0d1"
           }
         },
         {
