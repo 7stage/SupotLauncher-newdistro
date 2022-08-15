@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "0.4.0",
   "rss": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/feed.rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "SupotOnline-1.12.2",
-      "name": "SupotOnline (Minecraft 1.12.2)",
-      "description": "SupotOnline Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+      "name": "Magic Sprite (Minecraft 1.12.2)",
+      "description": "Magic Sprite Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/images/supot.webp",
       "version": "2.5.0",
-      "address": "Supot.kro.kr:25565",
+      "address": "매직.웹.한국:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
