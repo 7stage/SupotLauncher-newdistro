@@ -261,8 +261,28 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 200491,
-            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/[1.12][Forge]+RPG-HUD-3.8.1.jar",
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/1.12ForgeRPG-HUD-3.8.1.jar",
             "MD5": "325a6b7779ad2851f6c909eebfb5329e"
+          }
+        },
+        {
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.49.0@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2343199,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.49.0.jar",
+            "MD5": "d7ca02fca4b920cc29cd43bab67d7f03"
+          }
+        },
+        {
+          "id": "baubles:baubles:1.12-1.5.2@jar",
+          "name": "Baubles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108450,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar",
+            "MD5": "944dec4ef3fbfd4d498d94a7047af201"
           }
         },
         {
@@ -271,8 +291,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9911871,
-            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/customnpcs-1.12.jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "electroblob.wizardry:ebwizardry:4.3.7@jar",
+          "name": "Electroblob's Wizardry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10931060,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/ElectroblobsWizardry-4.3.8.jar",
+            "MD5": "2d783f90c42815e7e8d45537656d6840"
           }
         },
         {
@@ -286,13 +316,13 @@
           }
         },
         {
-          "id": "com.github.alexthe666:iceandfire:1.9.1@jar",
-          "name": "Ice and Fire",
+          "id": "creo.mod:koreanchat:1.12-1.9@jar",
+          "name": "Korean Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 20467820,
-            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/iceandfire-1.9.1-1.12.2.jar",
-            "MD5": "58c453b85285c4e82cfc6fad35ffb537"
+            "size": 30763,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/koreanchat-creo-1.12-1.9.jar",
+            "MD5": "91492de16021a4f7018eb5d523f45fc2"
           }
         },
         {
@@ -314,7 +344,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 884550,
-            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/llibrary-1.7.20-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/llibrary-1.7.20-1.12.2%20(1).jar",
             "MD5": "218aefca8bd6bb8d9ff7dd877c1d277d"
           }
         },
@@ -324,11 +354,31 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2669107,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
+          "id": "generated.forgemod:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
             "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "bre.smoothfont:smoothfont:mc1.12.2-2.1.1@jar",
+          "name": "Smooth Font",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 282904,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/SmoothFont-mc1.12.2-2.1.1.jar",
+            "MD5": "99f7cd6644efabbe6055f2e9f429aafb"
           }
         },
         {
