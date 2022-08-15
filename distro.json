@@ -352,6 +352,16 @@
           }
         },
         {
+          "id": "mods.flammpfeil.slashblade:flammpfeil.slashblade:mc1.12-r33@jar",
+          "name": "SlashBlade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3729004,
+            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/SlashBlade-mc1.12-r33.jar",
+            "MD5": "ad6f5cc67139afc1b2350903ad1ef558"
+          }
+        },
+        {
           "id": "bre.smoothfont:smoothfont:mc1.12.2-2.1.3@jar",
           "name": "Smooth Font",
           "type": "ForgeMod",
