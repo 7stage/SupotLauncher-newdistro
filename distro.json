@@ -13,7 +13,7 @@
       "description": "Magic Sprite Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/images/supot.webp",
       "version": "2.5.0",
-      "address": "매직.웹.한국:25565",
+      "address": "매직.웹.한국",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
