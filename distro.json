@@ -321,16 +321,6 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/koreanchat-creo-1.12-1.9.jar",
-            "MD5": "91492de16021a4f7018eb5d523f45fc2"
-          }
-        },
-        {
-          "id": "creo.mod:koreanchat:1.12-1.9@jar",
-          "name": "Korean Chat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 30763,
             "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           },
@@ -354,31 +344,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2669107,
-            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
-            "MD5": "54e561e441192cf009803ae95873c5d0"
-          }
-        },
-        {
-          "id": "generated.forgemod:optifine:1.12.2_HD_U_G5@jar",
-          "name": "OptiFine 1.12.2_HD_U_G5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2669107,
             "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "bre.smoothfont:smoothfont:mc1.12.2-2.1.1@jar",
-          "name": "Smooth Font",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 282904,
-            "url": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/servers/SupotOnline-1.12.2/forgemods/required/SmoothFont-mc1.12.2-2.1.1.jar",
-            "MD5": "99f7cd6644efabbe6055f2e9f429aafb"
           }
         },
         {
