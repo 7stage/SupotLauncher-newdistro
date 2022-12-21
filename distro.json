@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "0.5.0",
   "rss": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/feed.rss",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
