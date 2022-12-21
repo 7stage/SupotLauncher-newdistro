@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "SupotOnline-1.12.2",
-      "name": "SupotOnline (Minecraft 1.12.2)",
-      "description": "SupotOnline Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+      "id": "SpriteOnline-1.12.2",
+      "name": "Sprite Online (Minecraft 1.12.2)",
+      "description": "Sprite Online Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": "https://raw.githubusercontent.com/7stage/SupotLauncher-newdistro/main/images/icon.png",
       "version": "3.0.0",
       "address": "spriteonline.kro.kr",
